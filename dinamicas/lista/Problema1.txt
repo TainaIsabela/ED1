@@ -1,0 +1,2 @@
+1 - As desvantagem são: A inflexibilidade, não conseguimos otimizar o uso da memoria, ou ampliar um estrutura.
+As vantagens são: a flexibilidade, que possibilita aumentar e diminuir o tamanho da estrutura de acordo com a necessidade, otimiza o uso da memória tendo itens tanto quanto necessário sem resto de estrutura vazia ocupando memoria.
